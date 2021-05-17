@@ -1,20 +1,20 @@
-class Complex_numbers():
+class Complex_Numbers():
 
-    def __init__(self, real, imag):
+    def __init__(self, real, img):
         self.real = real
-        self.imag = imag
+        self.img = img
 
     def __add__(self, other):
-        return Complex_numbers(self.real + other.real, self.imag + other.imag)
+        return Complex_Numbers(self.real + other.real, self.img + other.imag)
 
     def __sub__(self, other):
-        return Complex_numbers(self.real - other.real, self.imag - other.imag)
+        return Complex_Numbers(self.real - other.real, self.img - other.imag)
 
     def __mul__(self, other):
-        return Complex_numbers(self.real * other.real, self.imag * other.imag)
+        return Complex_Numbers(self.real * other.real, self.img * other.imag)
 
     def __truediv__(self, other):
-        return Complex_numbers(self.real * other.imag, self.imag * other.real)
+        return Complex_Numbers(self.real * other.imag, self.img * other.real)
 
 c1 = complex(11, 11)
 c2 = complex(2, 2)
