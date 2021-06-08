@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> My blog </title>
+    <style>
+       p {
+           color: blue;
+           background-color: white;
+           font-size: 26px;
+       }
+       body {
+           background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.top13.net%2Fwp-content%2Fuploads%2F2016%2F09%2Fcutest-kittens-ever-17.jpg&f=1&nofb=1");
+       }
+       #img {
+           width: 500px;
+           height: 500px;
+       }
+       #main-title {
+           text-align: center;
+           color: aquamarine;
+       }
+    </style>
+</head>
+<body>
+    <h1  id="main-title"> Hello World! </h1>
+    <h1> Hello World! </h1>
+    <p> Hello World! </p>
+    <p> from Daniiar! </p>
+    <p> from Daniiar! </p>
+    <p> from Daniiar! </p>
+    <p> from Daniiar! </p>
+    <a href="https://google.com" ><b>google.com</b>  </a>
+    <a href="https://youtube.com"><i> <p>youtube.com </p></i></a>
+    <a href="https://duckduckgo.com/?q=cute+kitty&t=newext&atb=v245-1&iax=images&ia=images&iai=https%3A%2F%2Fi.ytimg.com%2Fvi%2FW-PBFMECvTE%2Fmaxresdefault.jpg">
+            <p>
+                <img id="img" src="photo_2021-05-05_13-19-09.jpg" alt="shawerma">
+            </p>
+    </a>
+    <video src=""></video>
+    <script>
+        let a = document.getElementById('main-title')
+        a.innerText = 'Hrrrr Hello World!'
+
+        const body = document.getElementById('img');
+        let deg = 720;
+        setInterval(() => {
+            deg = 100;
+            body.style.transition = "all 10s"
+            body.style.transform = `rotateY(${deg}deg)`
+        }, 100)
+    </script>
+</body>
+</html>
