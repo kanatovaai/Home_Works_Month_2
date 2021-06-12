@@ -2,12 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec066a9e-4117-4a32-92b8-4ec48d1702df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Home_works/hw_3/hw_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/lesson3/lesson3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lessons/lesson3/lesson3_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Home_works/hw_1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Home_works/hw_1/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home_works/hw_2/hw_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Home_works/hw_2/hw_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_works/hw_4/hw_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Home_works/hw_4/hw_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_works/hw_5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_works/hw_5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_works/hw_6/hw_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Home_works/hw_6/hw_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_works/hw_7/hw_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Home_works/hw_7/hw_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_works/hw_7/new.db" beforeDir="false" afterPath="$PROJECT_DIR$/Home_works/hw_7/new.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/lesson1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/lesson1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/lesson2/lesson.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/lesson2/lesson.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/lesson4/lesson4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/lesson4/lesson4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/lesson6/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/lesson6/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/lesson6/lesson6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/lesson6/lesson6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/lesson6/lesson6.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/lesson6/lesson6.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/lesson7/lesson7.db" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/lesson7/lesson7.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/lesson7/lesson7.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/lesson7/lesson7.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons/lesson8/lesson8.db" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/lesson8/lesson8.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,12 +28,28 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1rzRVU9KaQZsCEyZO6LXxZY3NvV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -31,19 +58,26 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Home_works/hw_3/hw_3.py" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lessons/lesson5" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lessons/lesson5" />
       <recent name="$PROJECT_DIR$/Lessons" />
       <recent name="$PROJECT_DIR$/homeworks" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Home_works/hw_5" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.lesson3">
-    <configuration name="hw_2" type="PythonConfigurationType" factoryName="Python">
+  <component name="RunManager" selected="Python.hw_7">
+    <configuration name="hw_2" type="PythonConfigurationType" factoryName="Python" singleton="false">
       <module name="Home_works_Month_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,6 +98,69 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="hw_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Home_works_Month_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Home_works/hw_6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Home_works/hw_6/hw_6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hw_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Home_works_Month_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Home_works/hw_7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Home_works/hw_7/hw_7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jk" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Home_works_Month_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Home_works/hw_6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Home_works/hw_6/jk.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="lesson2" type="PythonConfigurationType" factoryName="Python">
       <module name="Home_works_Month_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,7 +173,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson2/lesson.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,19 +182,40 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson3" type="PythonConfigurationType" factoryName="Python">
+    <configuration name="lesson4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Home_works_Month_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="/usr/bin/python3.8" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Home_works/hw_3" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lessons/lesson4" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Home_works/hw_3/hw_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lessons/lesson4/lesson4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Home_works_Month_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lessons/lesson6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lessons/lesson6/lesson6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,10 +247,24 @@
     </configuration>
     <list>
       <item itemvalue="Python.hw_2" />
-      <item itemvalue="Python.lesson3" />
       <item itemvalue="Python.lesson2" />
       <item itemvalue="Python.python" />
+      <item itemvalue="Python.lesson3" />
+      <item itemvalue="Python.lesson4" />
+      <item itemvalue="Python.hw_6" />
+      <item itemvalue="Python.jk" />
+      <item itemvalue="Python.hw_7" />
+      <item itemvalue="Python.lesson6" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.hw_7" />
+        <item itemvalue="Python.hw_6" />
+        <item itemvalue="Python.lesson6" />
+        <item itemvalue="Python.jk" />
+        <item itemvalue="Python.lesson4" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -159,6 +291,12 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lessons/lesson6/lesson6.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">

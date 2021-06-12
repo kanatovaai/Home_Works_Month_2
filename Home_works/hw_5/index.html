@@ -1,10 +1,59 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>my web page</title>
+    <style>
+       p {
+           color: white;
+           background-color: ;
+           font-size: 20px;
+       }
+       body {
+           background-image: url("https://i.pinimg.com/originals/43/22/5a/43225aba74ba46ba733f83ec5084e73d.jpg");
+           background-size: 150%;
+       }
+       #img {
+           width: 100px;
+           height: 100px;
+       }
+       #main-title {
+           text-align: center;
+           color: white;
+       }
+       #img2{
+            color: white;
+            float: right;
+            width: 160px;
+            height: 160px;
+       }
+    </style>
 </head>
 <body>
-$END$
+    <h1 id="main-title"> Kanatova Aidai Kanatova</h1>
+    <p> <b> Address: </b> Termechikova 83, Bishkek, Kyrgyzstan <p>
+         <img id="img2" src="/home/aidai/Downloads/IMG_20210608_144431.jpg" alt="my photo">
+    </p></p>
+    <p> <b> Phone: </b> +996772466337 </p>
+    <p><b>E-mail:</b> aidai05.06.2004@gmail.com</p>
+    <p><b>Date of birth:</b> 05 June 2004</p>
+    <p><b>Age:</b> 17 </p>
+    <p><b>Marital status:</b> Single</p>
+    <p><b>Nationality:</b> Kyrgyz </p>
+    <p><b>Work experience:</b> in sales </p>
+    <p><b>Education:</b> lower secondary education in school №44(Krivonosova 11, Bishkek, Kyrgyzstan)</p>
+    <p><b>Additional Education:</b> Course of Python (GeekTech ,Ibraimova 103, Bishkek, Kyrgyzstan) </p>
+    <p><b>Language skills:</b> Kyrgyz- native, Russian- proficiency, English - middle </p>
+    <script>
+        const body = document.getElementById('img2');
+        let deg = 720;
+        setInterval(() => {
+            deg = 360;
+            body.style.transition = "all 7s"
+            body.style.transform = `rotateY(${deg}deg)`
+        }, 100)
+    </script>
 </body>
 </html>
+
+

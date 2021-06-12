@@ -47,5 +47,4 @@ f1.divide(f2)
 f1.multiply(f2)
 f1.subtract(f2)
 
-lesson3
 
